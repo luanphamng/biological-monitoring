@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "d:\\05_Projects\\freelancercode2019\\July_scada_arduino\\ref\\output\\sketch\\B3950_NTC_and_DS18B20.ino.cpp",
+    "Include": "OneWire.h",
+    "Includepath": "C:\\Users\\Liam\\Documents\\Arduino\\libraries\\OneWire"
+  },
+  {
+    "Sourcefile": "d:\\05_Projects\\freelancercode2019\\July_scada_arduino\\ref\\output\\sketch\\B3950_NTC_and_DS18B20.ino.cpp",
+    "Include": "DallasTemperature.h",
+    "Includepath": "C:\\Users\\Liam\\Documents\\Arduino\\libraries\\DallasTemperature"
+  },
+  {
+    "Sourcefile": "d:\\05_Projects\\freelancercode2019\\July_scada_arduino\\ref\\output\\sketch\\B3950_NTC_and_DS18B20.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Liam\\Documents\\Arduino\\libraries\\OneWire\\OneWire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Liam\\Documents\\Arduino\\libraries\\DallasTemperature\\DallasTemperature.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

@@ -1,0 +1,7 @@
+External Interrupts: 
+2 (interrupt 0), 
+3 (interrupt 1), 
+18 (interrupt 5), 
+19 (interrupt 4),
+20 (interrupt 3),
+21 (interrupt 2).

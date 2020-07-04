@@ -1,0 +1,27 @@
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.Form1.resources
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.Properties.Resources.resources
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\bin\Debug\DistanceSensor.exe
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\bin\Debug\DistanceSensor.pdb
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.exe
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.pdb
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\bin\Debug\DistanceSensor.exe
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\bin\Debug\DistanceSensor.pdb
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.csprojAssemblyReference.cache
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.Form1.resources
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.Properties.Resources.resources
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.csproj.GenerateResource.cache
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.exe
+C:\Users\Liam\Downloads\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.pdb
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\bin\Debug\DistanceSensor.exe
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\bin\Debug\DistanceSensor.pdb
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.csprojAssemblyReference.cache
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.Form1.resources
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.Properties.Resources.resources
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.csproj.GenerateResource.cache
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.csproj.CoreCompileInputs.cache
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.exe
+D:\05_Projects\Fiverr\2019\freelancercode2019\July_scada_arduino\ref\ProjectSourceCode\CSharp\DistanceSensor\obj\x86\Debug\DistanceSensor.pdb

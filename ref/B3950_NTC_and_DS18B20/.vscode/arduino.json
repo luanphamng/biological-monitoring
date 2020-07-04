@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "output": "../output",
+    "port": "COM4",
+    "sketch": "B3950_NTC_and_DS18B20.ino"
+}
